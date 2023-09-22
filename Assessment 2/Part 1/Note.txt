@@ -1,0 +1,3 @@
+Required to only complete 2 buttons:
+>> Customer Info 
+>> New order

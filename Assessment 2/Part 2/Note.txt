@@ -1,0 +1,7 @@
+Required to complete and implement the remaining two buttons:
+
+>> Complete rental 
+>> Display rental
+
+Note: Code may contain error such as 'New Order' button. 
+Please refer to Part 1 for working code
